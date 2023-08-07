@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 import $ from 'jquery';
 import 'slick-carousel';
-=======
-import $ from 'jquery'
-import 'slick-carousel'
->>>>>>> 68a66c0ca487b97906bc761575f656195c4168f2
 
 
 $(document).ready(function() {
