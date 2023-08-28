@@ -20,7 +20,7 @@ changeModalState(modalState);
   tabs('.decoration_slider', '.no_click', '.decoration_content > div > div', 'after_click');
   tabs('.balcon_icons', '.balcon_icons_img', '.big_img > img', 'do_image_more', 'inline-block');
   forms(modalState);
-  timer('.container1', deadline);
+  // timer('.container1', deadline);
   images();
 });
 
